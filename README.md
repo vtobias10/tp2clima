@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # tp2-app-clima
 # tp2-app-clima
 # tp2-app-clima
+# tp2-app-clima
